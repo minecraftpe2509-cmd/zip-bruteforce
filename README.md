@@ -44,7 +44,7 @@ A password-protected .zip file
 Clone the repository:
 
 ```
-git clone https://github.com/minecraftpe2509-cmd/zip-bruteforce
+git clone https://github.com/Mine-Misc-cmd/zip-bruteforce
 ```
 Move into the project directory:
 
