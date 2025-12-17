@@ -48,7 +48,9 @@ git clone https://github.com/Mine-Misc/zip-bruteforce
 ```
 Move into the project directory:
 
+```
 cd zip-bruteforce
+```
 
 
 ---
